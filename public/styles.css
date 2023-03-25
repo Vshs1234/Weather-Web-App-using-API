@@ -1,0 +1,29 @@
+.container{
+    background-color: lavender;
+    padding: 100px 350px;
+}
+#heading{
+    font-size:100px;
+    color:orangered;
+    margin-bottom: 50px;
+}
+#form{
+    border: 2px solid;
+    padding: 100px 100px;
+}
+#label{
+    font-size: 25px;
+    color:orangered;
+}
+#cityname{
+    padding:10px;
+    margin:20px 10px;
+    color:orangered;
+    font-weight: bold;
+}
+.btn-outline-warning{
+    border-color: orangered;
+    color:orangered;
+    font-size:20px;
+    font-weight: bolder;
+}
